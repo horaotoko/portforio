@@ -157,12 +157,12 @@ color: #6DBC8E;
 }
 
 .right_space h2{
-  margin: 0 0 25px;
+  margin: 0 0 23px;
   font-size: 48px;
 }
 
 .right_space h3{
-  margin-bottom: 32px;
+  margin-bottom: 24px;
 }
 
 .caption{
@@ -193,7 +193,7 @@ color: #6DBC8E;
 }
 
 .ability{
-  margin-top: 25px;
+  margin-top: 30px;
 }
 
 .ability p{

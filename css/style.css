@@ -8,7 +8,7 @@ h1, h2, h3, a{
 
 h1{
   font-size: 60px;
-  margin: 0 0 40px;
+  margin: 0 0 45px;
 }
 
 h3{
@@ -17,7 +17,7 @@ h3{
 }
 
 p,ul li{
-  color: #E98142;
+  color: #E97122;
   font-family:'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
   text-shadow: -1px 1px 0 rgba(255,255,255,.4);
   font-size: 14px;
@@ -52,7 +52,7 @@ header,section {
   -webkit-box-shadow: rgba(0,0,0,.5) -1px 1px 0, rgba(255,255,255,.5)-1px 1px 0 inset;
   -moz-box-shadow: rgba(0,0,0,.5) -1px 1px 0, rgba(255,255,255,.5)-1px 1px 0 inset;
   box-shadow: rgba(0,0,0,.5) -1px 1px 0, rgba(255,255,255,.5)-1px 1px 0 inset;
-  border-bottom: 4px solid #E98142;
+  border-bottom: 4px solid #E97122;
   background-image: url("../img/texture.png");
 }
 
@@ -75,7 +75,7 @@ header h1{
   -webkit-box-shadow: rgba(0,0,0,.1) -1px 1px 2px inset, rgba(255,255,255,-1) -1px 1px 0;
   -moz-box-shadow: rgba(0,0,0,.1) -1px 1px 2px inset, rgba(255,255,255,-1) -1px 1px 0;
   box-shadow: rgba(0,0,0,.1) -1px 1px 2px inset, rgba(255,255,255,-1) -1px 1px 0;
-  margin: 10px 0 30px;
+  margin: 0 0 30px;
   background-image: url("../img/texture.png");
 }
 .desktop{
@@ -142,7 +142,7 @@ float: left;
 float: none;
 font-size: 26px;
 padding: 10px 8px 10px;
-color: #e98142;
+color: #E97122;
 text-decoration: none;
 text-shadow: 0 1px 1px #aaa;
 }
@@ -177,7 +177,7 @@ color: #6DBC8E;
 }
 
 .caption a {
-  color: #E98142;
+  color: #E97122;
   text-shadow: 0 1px 1px #FFE;
   font-size: 15px;
   line-height: 1.4; 
@@ -224,7 +224,7 @@ color: #6DBC8E;
 }
 
 .totop:hover{
-  color: #E98142;
+  color: #E97122;
   text-decoration: none;
 }
 
@@ -267,7 +267,7 @@ color: #6DBC8E;
 }
 
 .music h3 a:hover {
-  color: #E98142;
+  color: #E97122;
   text-decoration: none;
 }
 
@@ -286,7 +286,7 @@ color: #6DBC8E;
 footer {
   clear:both !important;
   text-align: center;
-  background: #E98142;
+  background: #E97122;
   height: 150px;
   padding: 60px;
   background-image: url("../img/texture.png");

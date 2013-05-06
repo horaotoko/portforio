@@ -1,7 +1,11 @@
+body{
+   font-family: 'Quicksand','ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','Osaka','メイリオ','Meiryo','ＭＳ Ｐゴシック','MS PGothic',sans-serif;
+}
+
 h1, h2, h3, a{
-  font-family: 'Quicksand','ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
   color: #fdecb7;
   text-shadow: 1px -1px 0px rgba(0, 0, 0, 0.2);
+  font-family: 'Quicksand','ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','Osaka','メイリオ','Meiryo','ＭＳ Ｐゴシック','MS PGothic',sans-serif;
   letter-spacing: 0px;
   font-weight: 700;
 }
@@ -18,7 +22,6 @@ h3{
 
 p,ul li{
   color: #E97122;
-  font-family:'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
   text-shadow: -1px 1px 0 rgba(255,255,255,.4);
   font-size: 14px;
   line-height: 1.6;
@@ -90,7 +93,6 @@ header h1{
 }
 
 .desktop p{
-  font-family: 'Quicksand', sans-serif;
   color: #fdecb7;
   text-shadow: 1px -1px 0px rgba(0, 0, 0, 0.2);
   font-size: 23px;
@@ -174,11 +176,12 @@ color: #6DBC8E;
   box-shadow: rgba(0,0,0,.1) -1px 1px 2px inset, rgba(255,255,255,-1) -1px 1px 0;
   margin: 0 0 20px;
   background-image: url("../img/texture.png");
+  font-family: 'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','Osaka','メイリオ','Meiryo','ＭＳ Ｐゴシック','MS PGothic',sans-serif;
 }
 
 .caption a {
   color: #E97122;
-  text-shadow: 0 1px 1px #FFE;
+  text-shadow: -1px 1px 1px #FFE;
   font-size: 15px;
   line-height: 1.4; 
   text-align: center;  
@@ -198,7 +201,6 @@ color: #6DBC8E;
 
 .ability p{
   color: #fdecb7;
-  font-family: 'Quicksand', sans-serif;
   text-shadow: 1px -1px 0px rgba(0, 0, 0, 0.2);
   font-size: 18px;
   font-weight: 700;
@@ -296,7 +298,6 @@ footer p{
   color: #fdecb7;
   font-size: 68px;
   letter-spacing: -1px;
-  font-family: 'Quicksand', sans-serif;
   text-shadow: none;
 }
 
